@@ -1,0 +1,45 @@
+2023-04-25 16:35:40,648: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-25 16:35:51,903: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 16:35:52,087: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 20:34:34,176: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-25 20:34:40,609: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 20:34:40,714: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 20:41:22,541: [DEBUG] AdminController-Register: Ðang ký thành công User: kidkender
+2023-04-25 20:42:39,379: [DEBUG] Send email Success
+2023-04-25 20:42:39,780: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-04-25 20:42:40,285: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-04-25 20:42:40,785: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-04-25 20:51:33,900: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 20:51:33,949: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 21:02:30,461: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:02:30,516: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 21:03:08,406: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:03:08,515: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 21:11:22,125: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:11:22,195: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 21:24:49,296: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-25 21:29:46,161: [DEBUG] AdminController-Register: Ðang ký thành công User: maianh1313
+2023-04-25 21:31:26,381: [DEBUG] Send email Fail
+2023-04-25 21:31:27,820: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-04-25 21:31:29,262: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-04-25 21:31:29,786: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-04-25 21:31:30,800: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-04-25 21:32:44,679: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:32:44,766: [DEBUG] AdminController-Login: Ðang nh?p th?t b?i
+2023-04-25 21:32:54,043: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:32:54,085: [DEBUG] AdminController-Login: Ðang nh?p th?t b?i
+2023-04-25 21:33:01,894: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:33:01,992: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 21:41:59,127: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:41:59,174: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 21:43:20,414: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:43:20,500: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 21:44:36,918: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-25 21:45:12,214: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 21:45:12,300: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-25 22:24:50,474: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-25 22:24:50,557: [DEBUG] AdminController-Login: Ðang nh?p thành công

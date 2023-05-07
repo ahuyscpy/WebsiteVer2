@@ -1,0 +1,14 @@
+2023-04-10 18:00:55,156: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-10 18:02:56,687: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-10 18:16:28,413: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-10 18:17:08,018: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-10 18:19:18,013: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-10 18:25:43,310: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-10 18:25:52,667: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32

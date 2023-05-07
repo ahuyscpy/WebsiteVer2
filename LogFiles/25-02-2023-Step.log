@@ -1,0 +1,43 @@
+2023-02-25 05:06:28,587: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-02-25 05:06:33,220: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:06:33,256: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:23:06,113: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-02-25 05:24:29,785: [DEBUG] AdminController-Register: Ðang ký thành công User: lamhongkhuyen
+2023-02-25 05:24:33,631: [DEBUG] Send email Success
+2023-02-25 05:24:36,524: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:24:36,536: [DEBUG] AdminController-Login: Tài kho?n chua kích ho?t
+2023-02-25 05:25:03,893: [DEBUG] AdminController-Register: Ðang ký th?t b?i
+2023-02-25 05:25:12,913: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-02-25 05:25:15,466: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:25:15,479: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:25:59,593: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:25:59,607: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:27:06,548: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-02-25 05:27:08,934: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:27:08,947: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:28:34,530: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:28:34,542: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:29:15,696: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-02-25 05:29:18,215: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:29:18,226: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:30:27,576: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:30:27,587: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:33:35,137: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-02-25 05:33:40,578: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:33:40,589: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:35:10,681: [DEBUG] AdminController-Register: Ðang ký thành công User: cnttattt
+2023-02-25 05:35:13,947: [DEBUG] Send email Success
+2023-02-25 05:35:18,554: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:35:18,566: [DEBUG] AdminController-Login: Tài kho?n chua kích ho?t
+2023-02-25 05:35:34,218: [DEBUG] [ActiveAccount] cnttattt|doancnttattt@gmail.com
+2023-02-25 05:35:34,222: [DEBUG] Active account cnttattt|doancnttattt@gmail.comThành công
+2023-02-25 05:35:37,493: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:35:37,505: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-02-25 05:35:53,821: [DEBUG] AdminController-Login: Ðang nh?p
+2023-02-25 05:35:53,831: [DEBUG] AdminController-Login: Ðang nh?p thành công

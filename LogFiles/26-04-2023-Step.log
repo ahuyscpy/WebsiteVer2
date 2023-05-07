@@ -1,0 +1,54 @@
+2023-04-26 00:35:23,894: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 00:36:01,908: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 00:36:01,994: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 00:40:23,044: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 00:40:29,407: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 00:40:29,493: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:19:01,325: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 07:19:09,005: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:19:09,117: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:26:06,793: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 07:26:11,102: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:26:11,190: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:27:46,342: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:27:46,378: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:29:58,942: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:29:58,986: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:30:13,774: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:30:13,820: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:34:08,866: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 07:34:15,619: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:34:15,655: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:37:02,652: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 07:37:06,984: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:37:07,050: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:38:06,908: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 07:38:11,626: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:38:11,668: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:38:51,840: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 07:38:51,896: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 07:41:53,066: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 07:47:39,322: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 09:16:57,676: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 09:17:03,961: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 09:17:04,059: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 09:21:21,067: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 09:21:35,333: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 09:21:35,368: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 09:33:33,335: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in C:\Users\Dell\Desktop\11190273_Nguy?n Mai Anh\Source Code c?a Mai Anh\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-26 09:33:54,897: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 09:33:54,970: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-26 09:35:08,397: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-26 09:35:08,461: [DEBUG] AdminController-Login: Ðang nh?p thành công

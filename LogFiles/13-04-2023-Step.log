@@ -1,0 +1,24 @@
+2023-04-13 00:02:14,622: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-13 00:02:22,584: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-13 00:02:22,733: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-13 00:15:35,512: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-13 00:15:40,069: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-13 00:15:40,268: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-13 00:16:04,603: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-13 00:16:04,646: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-13 17:21:41,341: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-13 17:21:48,427: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-13 17:21:48,524: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-13 17:29:31,993: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-13 17:29:41,065: [ERROR] System.InvalidCastException: Unable to cast object of type 'System.Security.Principal.GenericIdentity' to type 'System.Web.Security.FormsIdentity'.
+   at Gemini.Controllers._01_Hethong.AdminController.Index() in E:\Project OS\2022.W09-RaoVat\Gemini\Controllers\01_Hethong\AdminController.cs:line 32
+2023-04-13 17:31:00,439: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-13 17:31:00,529: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-13 17:31:15,844: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-13 17:31:15,889: [DEBUG] AdminController-Login: Ðang nh?p thành công
+2023-04-13 17:35:30,647: [DEBUG] AdminController-Login: Ðang nh?p
+2023-04-13 17:35:30,685: [DEBUG] AdminController-Login: Ðang nh?p thành công

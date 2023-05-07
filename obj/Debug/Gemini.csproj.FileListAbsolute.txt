@@ -1,0 +1,314 @@
+C:\ProjectOS\Corework\Gemini\bin\Gemini.dll.config
+C:\ProjectOS\Corework\Gemini\bin\Gemini.dll
+C:\ProjectOS\Corework\Gemini\bin\Gemini.pdb
+C:\ProjectOS\Corework\Gemini\bin\en-US\Gemini.resources.dll
+C:\ProjectOS\Corework\Gemini\bin\en-GB\Gemini.resources.dll
+C:\ProjectOS\Corework\Gemini\bin\Antlr3.Runtime.dll
+C:\ProjectOS\Corework\Gemini\bin\ComponentPro.TemplateEngine.dll
+C:\ProjectOS\Corework\Gemini\bin\EntityFramework.dll
+C:\ProjectOS\Corework\Gemini\bin\EntityFramework.SqlServer.dll
+C:\ProjectOS\Corework\Gemini\bin\HtmlAgilityPack.dll
+C:\ProjectOS\Corework\Gemini\bin\Kendo.Mvc.dll
+C:\ProjectOS\Corework\Gemini\bin\log4net.dll
+C:\ProjectOS\Corework\Gemini\bin\Microsoft.IdentityModel.dll
+C:\ProjectOS\Corework\Gemini\bin\Microsoft.Web.Infrastructure.dll
+C:\ProjectOS\Corework\Gemini\bin\Mmosoft.Facebook.Sdk.dll
+C:\ProjectOS\Corework\Gemini\bin\Newtonsoft.Json.dll
+C:\ProjectOS\Corework\Gemini\bin\SINNOVA.Core.dll
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Helpers.dll
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Mvc.dll
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Optimization.dll
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Razor.dll
+C:\ProjectOS\Corework\Gemini\bin\System.Web.WebPages.Deployment.dll
+C:\ProjectOS\Corework\Gemini\bin\System.Web.WebPages.dll
+C:\ProjectOS\Corework\Gemini\bin\System.Web.WebPages.Razor.dll
+C:\ProjectOS\Corework\Gemini\bin\WebGrease.dll
+C:\ProjectOS\Corework\Gemini\bin\Antlr3.Runtime.pdb
+C:\ProjectOS\Corework\Gemini\bin\EntityFramework.xml
+C:\ProjectOS\Corework\Gemini\bin\EntityFramework.SqlServer.xml
+C:\ProjectOS\Corework\Gemini\bin\HtmlAgilityPack.pdb
+C:\ProjectOS\Corework\Gemini\bin\HtmlAgilityPack.xml
+C:\ProjectOS\Corework\Gemini\bin\log4net.xml
+C:\ProjectOS\Corework\Gemini\bin\Newtonsoft.Json.xml
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Helpers.xml
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Mvc.xml
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Optimization.xml
+C:\ProjectOS\Corework\Gemini\bin\System.Web.Razor.xml
+C:\ProjectOS\Corework\Gemini\bin\System.Web.WebPages.xml
+C:\ProjectOS\Corework\Gemini\bin\System.Web.WebPages.Deployment.xml
+C:\ProjectOS\Corework\Gemini\bin\System.Web.WebPages.Razor.xml
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+C:\ProjectOS\Corework\Gemini\obj\Debug\en-US\Gemini.resources.dll
+C:\ProjectOS\Corework\Gemini\obj\Debug\en-GB\Gemini.resources.dll
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.csproj.CopyComplete
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.dll
+C:\ProjectOS\Corework\Gemini\obj\Debug\Gemini.pdb
+C:\ProjectOS\Corework\Gemini\bin\RestSharp.dll
+C:\ProjectOS\Corework\Gemini\bin\RestSharp.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Gemini.dll.config
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Gemini.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Gemini.pdb
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\en-US\Gemini.resources.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\en-GB\Gemini.resources.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Antlr3.Runtime.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\ComponentPro.TemplateEngine.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\EntityFramework.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\EntityFramework.SqlServer.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\HtmlAgilityPack.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Kendo.Mvc.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\log4net.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Microsoft.IdentityModel.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Microsoft.Web.Infrastructure.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Mmosoft.Facebook.Sdk.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Newtonsoft.Json.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\SINNOVA.Core.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Helpers.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Mvc.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Optimization.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Razor.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.WebPages.Deployment.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.WebPages.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.WebPages.Razor.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\WebGrease.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Antlr3.Runtime.pdb
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\EntityFramework.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\EntityFramework.SqlServer.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\HtmlAgilityPack.pdb
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\HtmlAgilityPack.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\log4net.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\Newtonsoft.Json.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Helpers.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Mvc.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Optimization.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.Razor.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.WebPages.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.WebPages.Deployment.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\bin\System.Web.WebPages.Razor.xml
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.csprojAssemblyReference.cache
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\en-US\Gemini.resources.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\en-GB\Gemini.resources.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.csproj.CopyComplete
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.dll
+E:\Project OS\2022.W09-RaoVat\Gemini\obj\Debug\Gemini.pdb
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.dll
+C:\Users\Admin\Desktop\Website của Khuyến\Gemini\obj\Debug\Gemini.pdb
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.dll
+C:\Users\Admin\Desktop\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.pdb
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.dll
+C:\Users\Dell\Desktop\Source Code của Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.pdb
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.pdb
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Gemini.dll.config
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Gemini.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Gemini.pdb
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\en-US\Gemini.resources.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\en-GB\Gemini.resources.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\ComponentPro.TemplateEngine.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\HtmlAgilityPack.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Kendo.Mvc.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\log4net.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Microsoft.IdentityModel.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Mmosoft.Facebook.Sdk.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\SINNOVA.Core.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Optimization.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.WebPages.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\WebGrease.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\HtmlAgilityPack.pdb
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\HtmlAgilityPack.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\log4net.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Optimization.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.WebPages.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\en-US\Gemini.resources.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\en-GB\Gemini.resources.dll
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.CopyComplete
+C:\Users\Dell\Desktop\11190273_Nguyễn Mai Anh\Source Code của Mai Anh\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+C:\Users\QUOC VU\Music\Gemini\bin\Gemini.dll.config
+C:\Users\QUOC VU\Music\Gemini\bin\Gemini.dll
+C:\Users\QUOC VU\Music\Gemini\bin\Gemini.pdb
+C:\Users\QUOC VU\Music\Gemini\bin\en-US\Gemini.resources.dll
+C:\Users\QUOC VU\Music\Gemini\bin\en-GB\Gemini.resources.dll
+C:\Users\QUOC VU\Music\Gemini\bin\Antlr3.Runtime.dll
+C:\Users\QUOC VU\Music\Gemini\bin\EntityFramework.dll
+C:\Users\QUOC VU\Music\Gemini\bin\EntityFramework.SqlServer.dll
+C:\Users\QUOC VU\Music\Gemini\bin\HtmlAgilityPack.dll
+C:\Users\QUOC VU\Music\Gemini\bin\log4net.dll
+C:\Users\QUOC VU\Music\Gemini\bin\Microsoft.IdentityModel.dll
+C:\Users\QUOC VU\Music\Gemini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\QUOC VU\Music\Gemini\bin\Newtonsoft.Json.dll
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Helpers.dll
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Mvc.dll
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Optimization.dll
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Razor.dll
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.WebPages.dll
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.WebPages.Razor.dll
+C:\Users\QUOC VU\Music\Gemini\bin\WebGrease.dll
+C:\Users\QUOC VU\Music\Gemini\bin\Antlr3.Runtime.pdb
+C:\Users\QUOC VU\Music\Gemini\bin\EntityFramework.xml
+C:\Users\QUOC VU\Music\Gemini\bin\EntityFramework.SqlServer.xml
+C:\Users\QUOC VU\Music\Gemini\bin\HtmlAgilityPack.pdb
+C:\Users\QUOC VU\Music\Gemini\bin\HtmlAgilityPack.xml
+C:\Users\QUOC VU\Music\Gemini\bin\log4net.xml
+C:\Users\QUOC VU\Music\Gemini\bin\Newtonsoft.Json.xml
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Helpers.xml
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Mvc.xml
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Optimization.xml
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.Razor.xml
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.WebPages.xml
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\QUOC VU\Music\Gemini\bin\System.Web.WebPages.Razor.xml
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\en-US\Gemini.resources.dll
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\en-GB\Gemini.resources.dll
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.csproj.CopyComplete
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.dll
+C:\Users\QUOC VU\Music\Gemini\obj\Debug\Gemini.pdb
+C:\Users\QUOC VU\Desktop\Gemini\bin\Gemini.dll.config
+C:\Users\QUOC VU\Desktop\Gemini\bin\Gemini.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\Gemini.pdb
+C:\Users\QUOC VU\Desktop\Gemini\bin\en-US\Gemini.resources.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\en-GB\Gemini.resources.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\Antlr3.Runtime.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\EntityFramework.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\EntityFramework.SqlServer.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\HtmlAgilityPack.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\log4net.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\Microsoft.IdentityModel.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\Newtonsoft.Json.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Helpers.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Mvc.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Optimization.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Razor.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.WebPages.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.WebPages.Razor.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\WebGrease.dll
+C:\Users\QUOC VU\Desktop\Gemini\bin\Antlr3.Runtime.pdb
+C:\Users\QUOC VU\Desktop\Gemini\bin\EntityFramework.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\EntityFramework.SqlServer.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\HtmlAgilityPack.pdb
+C:\Users\QUOC VU\Desktop\Gemini\bin\HtmlAgilityPack.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\log4net.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\Newtonsoft.Json.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Helpers.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Mvc.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Optimization.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.Razor.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.WebPages.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\QUOC VU\Desktop\Gemini\bin\System.Web.WebPages.Razor.xml
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\en-US\Gemini.resources.dll
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\en-GB\Gemini.resources.dll
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.csproj.CopyComplete
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.dll
+C:\Users\QUOC VU\Desktop\Gemini\obj\Debug\Gemini.pdb
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Gemini.dll.config
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Gemini.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Gemini.pdb
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\en-US\Gemini.resources.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\en-GB\Gemini.resources.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Antlr3.Runtime.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\EntityFramework.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\EntityFramework.SqlServer.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\HtmlAgilityPack.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\log4net.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Microsoft.IdentityModel.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Newtonsoft.Json.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Helpers.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Mvc.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Optimization.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Razor.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.WebPages.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.WebPages.Razor.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\WebGrease.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Antlr3.Runtime.pdb
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\EntityFramework.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\EntityFramework.SqlServer.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\HtmlAgilityPack.pdb
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\HtmlAgilityPack.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\log4net.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\Newtonsoft.Json.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Helpers.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Mvc.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Optimization.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.Razor.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.WebPages.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\bin\System.Web.WebPages.Razor.xml
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.csproj.AssemblyReference.cache
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.Resources.Resource.resources
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.Resources.Resource.en-US.resources
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.Resources.Resource.en-GB.resources
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.csproj.GenerateResource.cache
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\en-US\Gemini.resources.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\en-GB\Gemini.resources.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.csproj.CopyComplete
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.dll
+D:\Projects\ProjectK25TPM1\Final\Gemini\Gemini\obj\Debug\Gemini.pdb
